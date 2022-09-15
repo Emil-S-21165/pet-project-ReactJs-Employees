@@ -1,6 +1,7 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This pet-project was done as part of a react course on Udemy.  
+
+Этот пет-проект был сделан в рамках курса на Udemy по реакту.
 
 ## Available Scripts
 
