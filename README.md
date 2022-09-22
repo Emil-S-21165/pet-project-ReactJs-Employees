@@ -1,7 +1,9 @@
 
-This pet-project was done as part of a react course on Udemy.  
+This pet-project was done as part of a react course on Udemy. 
+Without using react hooks.
 
 Этот пет-проект был сделан в рамках курса на Udemy по реакту.
+Без использования реакт хуков
 
 ## Available Scripts
 
