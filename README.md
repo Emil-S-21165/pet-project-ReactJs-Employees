@@ -1,9 +1,13 @@
 
-This pet-project was done as part of a react course on Udemy. 
-Without using react hooks.
+This pet-project Employees was done as part of a react course on Udemy. 
+Without using react hooks, using class Components.
+The following functionality has been implemented: аdding new employees, searching, rating, filtering employees by salary, by rating.
 
 Этот пет-проект был сделан в рамках курса на Udemy по реакту.
-Без использования реакт хуков
+Проект сделан частично на классовых компонетах, без использования реакт хуков.
+Реализованы следующие функциональности: добавление новых сотрудников, поиск, рейтинг, фильтрация сотрудников по размеру оклада, по рейтингу.
+
+https://employees-react-pet-project.herokuapp.com/
 
 ## Available Scripts
 
