@@ -7,7 +7,7 @@ The following functionality has been implemented: аdding new employees, searchi
 Проект сделан частично на классовых компонетах, без использования реакт хуков.
 Реализованы следующие функциональности: добавление новых сотрудников, поиск, рейтинг, фильтрация сотрудников по размеру оклада, по рейтингу.
 
-https://employees-react-pet-project.herokuapp.com/
+https://pet-project-react-employees.vercel.app/
 
 ## Available Scripts
 
